@@ -15,4 +15,4 @@ You will need to have activated the `git-prompt` plugin.
 - Working directory
 - Time at which control was returned to the user
 
-![Screenshot]()
+![Screenshot](screenshot.png)
