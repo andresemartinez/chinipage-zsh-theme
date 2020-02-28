@@ -2,7 +2,7 @@
 
 A ZSH minimalist theme with git support
 
-# Compatibility
+## Compatibility
 
 You will need to have activated the `git-prompt` plugin.
 
