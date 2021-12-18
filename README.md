@@ -4,8 +4,9 @@ A minimalist ZSH theme with git support
 
 ## Compatibility
 
-You will need to have activated the `git-prompt` plugin (which requires python).
-This theme requires the [Powerline Fonts](https://github.com/powerline/fonts) to render properly.
+This theme requires:
+- [git-prompt](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git-prompt) plugin (which requires python).
+- [Powerline Fonts](https://github.com/powerline/fonts).
 
 ## What does it show?
 
@@ -15,5 +16,6 @@ This theme requires the [Powerline Fonts](https://github.com/powerline/fonts) to
   - Dirty working directory (✘)
 - Working directory
 - Time at which control was returned to the user
+- Last command duration
 
 ![Screenshot](screenshot.png)
